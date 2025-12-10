@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Swap9035/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Swap9035/DSA_java/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
