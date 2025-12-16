@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Swap9035/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2404-most-frequent-even-element](https://github.com/Swap9035/DSA_java/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Swap9035/DSA_java/tree/master/2418-sort-the-people) |
 ## Math
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Swap9035/DSA_java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Swap9035/DSA_java/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/Swap9035/DSA_java/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Swap9035/DSA_java/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Swap9035/DSA_java/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/Swap9035/DSA_java/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
