@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Swap9035/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2418-sort-the-people](https://github.com/Swap9035/DSA_java/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -17,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Swap9035/DSA_java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Swap9035/DSA_java/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/Swap9035/DSA_java/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Swap9035/DSA_java/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Swap9035/DSA_java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Swap9035/DSA_java/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/Swap9035/DSA_java/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Swap9035/DSA_java/tree/master/2351-first-letter-to-appear-twice) |
+## Sorting
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/Swap9035/DSA_java/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
