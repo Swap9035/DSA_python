@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Swap9035/DSA_java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Swap9035/DSA_java/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Swap9035/DSA_java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Swap9035/DSA_java/tree/master/0724-find-pivot-index) |
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Swap9035/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2404-most-frequent-even-element](https://github.com/Swap9035/DSA_java/tree/master/2404-most-frequent-even-element) |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Swap9035/DSA_java/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Swap9035/DSA_java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Swap9035/DSA_java/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
