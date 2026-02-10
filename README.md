@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Swap9035/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Swap9035/DSA_java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Swap9035/DSA_java/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/Swap9035/DSA_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Swap9035/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2404-most-frequent-even-element](https://github.com/Swap9035/DSA_java/tree/master/2404-most-frequent-even-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Swap9035/DSA_java/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Swap9035/DSA_java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Swap9035/DSA_java/tree/master/0229-majority-element-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Swap9035/DSA_java/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/Swap9035/DSA_java/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swap9035/DSA_java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Swap9035/DSA_java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Swap9035/DSA_java/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Swap9035/DSA_java/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
