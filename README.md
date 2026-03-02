@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Swap9035/DSA_java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Swap9035/DSA_java/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Swap9035/DSA_java/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/Swap9035/DSA_java/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Swap9035/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Swap9035/DSA_java/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Swap9035/DSA_java/tree/master/0904-fruit-into-baskets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Swap9035/DSA_java/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Swap9035/DSA_java/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Swap9035/DSA_java/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Swap9035/DSA_java/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Swap9035/DSA_java/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Swap9035/DSA_java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Swap9035/DSA_java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swap9035/DSA_java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Swap9035/DSA_java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Swap9035/DSA_java/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Swap9035/DSA_java/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Swap9035/DSA_java/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Swap9035/DSA_java/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
