@@ -8,9 +8,9 @@ class Solution:
             v2 = max_prod  * i
             v3 = min_prod * i
 
-            max_prod = max(v1 , max(v2,v3))
+            max_prod = max(v1 ,v2,v3)
             
-            min_prod = min(v1 , min(v2,v3))
+            min_prod = min(v1 , v2,v3)
 
             result = max(result , max_prod)
 
