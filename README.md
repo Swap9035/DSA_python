@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Swap9035/DSA_java/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swap9035/DSA_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Swap9035/DSA_java/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Swap9035/DSA_java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Swap9035/DSA_java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2404-most-frequent-even-element](https://github.com/Swap9035/DSA_java/tree/master/2404-most-frequent-even-element) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swap9035/DSA_java/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Swap9035/DSA_java/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Swap9035/DSA_java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Sliding Window
 |  |
 | ------- |
