@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Swap9035/DSA_java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Swap9035/DSA_java/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Swap9035/DSA_java/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swap9035/DSA_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Swap9035/DSA_java/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Swap9035/DSA_java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -101,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Swap9035/DSA_java/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Swap9035/DSA_java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Swap9035/DSA_java/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swap9035/DSA_java/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/Swap9035/DSA_java/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swap9035/DSA_java/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,4 +169,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Swap9035/DSA_java/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Swap9035/DSA_java/tree/master/0876-middle-of-the-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
