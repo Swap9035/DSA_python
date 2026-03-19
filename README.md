@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Swap9035/DSA_java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Swap9035/DSA_java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Swap9035/DSA_java/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Swap9035/DSA_java/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Swap9035/DSA_java/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Swap9035/DSA_java/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Swap9035/DSA_java/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Swap9035/DSA_java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swap9035/DSA_java/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Swap9035/DSA_java/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Swap9035/DSA_java/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Swap9035/DSA_java/tree/master/0918-maximum-sum-circular-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Swap9035/DSA_java/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
