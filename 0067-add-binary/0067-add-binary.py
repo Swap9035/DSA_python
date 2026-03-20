@@ -16,7 +16,7 @@ class Solution:
                 sum_val += int(b[j])
                 j -= 1
 
-            result.append(str(sum_val % 2))  # current bit
-            carry = sum_val // 2            # carry
+            result.append(str(sum_val % 2))  
+            carry = sum_val // 2            
 
         return "".join(result[::-1])
