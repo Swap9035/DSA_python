@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Swap9035/DSA_java/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Swap9035/DSA_java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Swap9035/DSA_java/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Swap9035/DSA_java/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Swap9035/DSA_java/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Swap9035/DSA_java/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Swap9035/DSA_java/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Swap9035/DSA_java/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Swap9035/DSA_java/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swap9035/DSA_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Swap9035/DSA_java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
