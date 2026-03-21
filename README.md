@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Swap9035/DSA_java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Swap9035/DSA_java/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Swap9035/DSA_java/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Swap9035/DSA_java/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Swap9035/DSA_java/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
@@ -223,4 +224,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Swap9035/DSA_java/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Swap9035/DSA_java/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
