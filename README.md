@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Swap9035/DSA_java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Swap9035/DSA_java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Swap9035/DSA_java/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Swap9035/DSA_java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Swap9035/DSA_java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Swap9035/DSA_java/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Swap9035/DSA_java/tree/master/0414-third-maximum-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Swap9035/DSA_java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Swap9035/DSA_java/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Swap9035/DSA_java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Swap9035/DSA_java/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Swap9035/DSA_java/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Swap9035/DSA_java/tree/master/0412-fizz-buzz) |
 ## Hash Table
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Swap9035/DSA_java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Swap9035/DSA_java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Swap9035/DSA_java/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Swap9035/DSA_java/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Swap9035/DSA_java/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swap9035/DSA_java/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Swap9035/DSA_java/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Swap9035/DSA_java/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Swap9035/DSA_java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Swap9035/DSA_java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Swap9035/DSA_java/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Swap9035/DSA_java/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Swap9035/DSA_java/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Swap9035/DSA_java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Swap9035/DSA_java/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Swap9035/DSA_java/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Swap9035/DSA_java/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swap9035/DSA_java/tree/master/0977-squares-of-a-sorted-array) |
@@ -174,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Swap9035/DSA_java/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swap9035/DSA_java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Swap9035/DSA_java/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Swap9035/DSA_java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Swap9035/DSA_java/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Swap9035/DSA_java/tree/master/1004-max-consecutive-ones-iii) |
 ## Union Find
