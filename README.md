@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Swap9035/DSA_java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Swap9035/DSA_java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Swap9035/DSA_java/tree/master/0414-third-maximum-number) |
+| [0463-island-perimeter](https://github.com/Swap9035/DSA_java/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Swap9035/DSA_java/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Swap9035/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Swap9035/DSA_java/tree/master/0643-maximum-average-subarray-i) |
@@ -245,4 +246,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Swap9035/DSA_java/tree/master/1114-print-in-order) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Swap9035/DSA_java/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Swap9035/DSA_java/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Swap9035/DSA_java/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
