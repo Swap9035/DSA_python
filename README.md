@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Swap9035/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Swap9035/DSA_java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Swap9035/DSA_java/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/Swap9035/DSA_java/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Swap9035/DSA_java/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Swap9035/DSA_java/tree/master/0918-maximum-sum-circular-subarray) |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Swap9035/DSA_java/tree/master/0463-island-perimeter) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Swap9035/DSA_java/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
