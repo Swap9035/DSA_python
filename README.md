@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Swap9035/DSA_java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Swap9035/DSA_java/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Swap9035/DSA_java/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Swap9035/DSA_java/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Swap9035/DSA_java/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Swap9035/DSA_java/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Swap9035/DSA_java/tree/master/0344-reverse-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swap9035/DSA_java/tree/master/0053-maximum-subarray) |
+| [0087-scramble-string](https://github.com/Swap9035/DSA_java/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/Swap9035/DSA_java/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Swap9035/DSA_java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Swap9035/DSA_java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
