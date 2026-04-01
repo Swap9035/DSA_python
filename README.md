@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Swap9035/DSA_java/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Swap9035/DSA_java/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Swap9035/DSA_java/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/Swap9035/DSA_java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Swap9035/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Swap9035/DSA_java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Swap9035/DSA_java/tree/master/0724-find-pivot-index) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Swap9035/DSA_java/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Swap9035/DSA_java/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swap9035/DSA_java/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/Swap9035/DSA_java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Swap9035/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Swap9035/DSA_java/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Swap9035/DSA_java/tree/master/0904-fruit-into-baskets) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Swap9035/DSA_java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Swap9035/DSA_java/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Swap9035/DSA_java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Swap9035/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Swap9035/DSA_java/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Swap9035/DSA_java/tree/master/0974-subarray-sums-divisible-by-k) |
