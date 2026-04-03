@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swap9035/DSA_java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Swap9035/DSA_java/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swap9035/DSA_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Swap9035/DSA_java/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Swap9035/DSA_java/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Swap9035/DSA_java/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Swap9035/DSA_java/tree/master/0076-minimum-window-substring) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Swap9035/DSA_java/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Swap9035/DSA_java/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/Swap9035/DSA_java/tree/master/0087-scramble-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Swap9035/DSA_java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Swap9035/DSA_java/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Swap9035/DSA_java/tree/master/0860-lemonade-change) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Swap9035/DSA_java/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
