@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Swap9035/DSA_java/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Swap9035/DSA_java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Swap9035/DSA_java/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Swap9035/DSA_java/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Swap9035/DSA_java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swap9035/DSA_java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Swap9035/DSA_java/tree/master/0209-minimum-size-subarray-sum) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Swap9035/DSA_java/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Swap9035/DSA_java/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Swap9035/DSA_java/tree/master/0860-lemonade-change) |
 ## Stack
