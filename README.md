@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Swap9035/DSA_java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Swap9035/DSA_java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swap9035/DSA_java/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Swap9035/DSA_java/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Swap9035/DSA_java/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Swap9035/DSA_java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Swap9035/DSA_java/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Swap9035/DSA_java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swap9035/DSA_java/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Swap9035/DSA_java/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Swap9035/DSA_java/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Swap9035/DSA_java/tree/master/0085-maximal-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Swap9035/DSA_java/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
