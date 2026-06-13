@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Swap9035/DSA_java/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Swap9035/DSA_java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swap9035/DSA_java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Swap9035/DSA_java/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Swap9035/DSA_java/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Swap9035/DSA_java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Swap9035/DSA_java/tree/master/0219-contains-duplicate-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Swap9035/DSA_java/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Swap9035/DSA_java/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Swap9035/DSA_java/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Swap9035/DSA_java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Swap9035/DSA_java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Swap9035/DSA_java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Swap9035/DSA_java/tree/master/0229-majority-element-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Swap9035/DSA_java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Swap9035/DSA_java/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Swap9035/DSA_java/tree/master/1748-sum-of-unique-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Swap9035/DSA_java/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Swap9035/DSA_java/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Swap9035/DSA_java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Swap9035/DSA_java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Swap9035/DSA_java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Swap9035/DSA_java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Swap9035/DSA_java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Swap9035/DSA_java/tree/master/0268-missing-number) |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swap9035/DSA_java/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Swap9035/DSA_java/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Swap9035/DSA_java/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/Swap9035/DSA_java/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Swap9035/DSA_java/tree/master/0918-maximum-sum-circular-subarray) |
